@@ -1,0 +1,100 @@
+{
+  "Cases": [
+    {
+      "id": 1,
+      "name": "1STPLAYER ZX7",
+      "price": 9490,
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "1STPLAYER BASS TYPE A [BASS-TA]",
+      "price": 7990,
+      "availability": true
+    }
+  ],
+  "Motherboards": [
+    {
+      "id": 3,
+      "name": "MSI [PRO Z690-A DDR4]",
+      "price": 18890,
+      "availability": true
+    },
+    {
+      "id": 4,
+      "name": "Asus [Prime Z590-V-SI]",
+      "price": 16990,
+      "availability": true
+    }
+  ],
+  "CPUs": [
+    {
+      "id": 5,
+      "name": "Intel Core i5-12600KF OEM",
+      "price": 29990,
+      "availability": true
+    },
+    {
+      "id": 6,
+      "name": "Intel Core i5-12600KF BOX",
+      "price": 26990,
+      "availability": true
+    }
+  ],
+  "Video cards": [
+    {
+      "id": 7,
+      "name": "MSI GeForce RTX 3060 Ti Ventus 3X OC (8 ГБ 256 бит) [RTX 3060 Ti VENTUS 3X 8G OC]",
+      "price": 56990,
+      "availability": true
+    },
+    {
+      "id": 8,
+      "name": "Asus GeForce RTX 3060 TUF Gaming OC V2 (12 ГБ 192 бит) [TUF-RTX3060-O12G-V2-GAMING]",
+      "price": 48990,
+      "availability": true
+    }
+  ],
+  "RAMs": [
+    {
+      "id": 9,
+      "name": "DDR4 32 ГБ 3733 МГц PC29800 Kingston FURY Beast Black [KF437C19BB1K2/32] Набор 2x16 ГБ",
+      "price": 14990,
+      "availability": true
+    },
+    {
+      "id": 10,
+      "name": "DDR4 32 ГБ 3600 МГц PC28800 Kingston FURY Beast Black [KF436C18BBK2/32] Набор 2x16 ГБ",
+      "price": 13490,
+      "availability": true
+    }
+  ],
+  "HDDs": [
+    {
+      "id": 11,
+      "name": "2 ТБ WD Red [WD20EFRX]",
+      "price": 9990,
+      "availability": true
+    },
+    {
+      "id": 12,
+      "name": "1 ТБ WD Black [WD1003FZEX]",
+      "price": 5990,
+      "availability": true
+    }
+  ],
+  "Power units": [
+    {
+      "id": 13,
+      "name": "750 Вт Super Flower Legion GX PRO [SF-750P14XE]",
+      "price": 8990,
+      "availability": true
+    },
+    {
+      "id": 14,
+      "name": "650 Вт 1STPLAYER AR [PS-650AR]",
+      "price": 5490,
+      "availability": true
+    }
+  ]
+}
